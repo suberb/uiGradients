@@ -808,5 +808,10 @@
     {
         "name": "Very Blue",
         "colors": ["#0575E6", "#021B79"]
-    }
+    },
+    
+    {
+        "name": "Sister",
+        "colors": ["#17C2A0", "#033C3D"]
+    },
 ]
